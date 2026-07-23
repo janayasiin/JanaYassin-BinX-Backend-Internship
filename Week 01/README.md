@@ -33,3 +33,4 @@
 * **Language & Runtime:** C#, .NET SDK (LTS)
 * **Development Environment:** Visual Studio Code / Visual Studio
 * **Version Control:** Git & GitHub
+> Status: Ready for mentor review.
