@@ -1,6 +1,5 @@
 # Week 01 - Onboarding, C# Fundamentals & Git
 
-This repository contains the progress, hands-on labs, and practical applications completed during **Week 01** of the Backend Development Internship.
 
 ## 🚀 Daily Curriculum & Topics Overview
 
